@@ -2,9 +2,7 @@
  
 Código desenvolvido para desenvolvimento de um sistema de gerenciamento de biblioteca. Para modelar o sistema, conceitos de classe, herança, propriedade, encapsulamento e classe abstrata foram utilizados. Já a parte de Banco de Dados foi desenvolvida com queries que envolveram criação de tabelas, inserção de dados e algumas consultas, atualizações e exclusões no banco de dados.
 
-O projeto visou cumprir os requisitos de **Programação Orientada a Objetos** e **Banco de Dados** do bootcamp de Back-end Python e Django da **WoMakersCode**, patrocinado pelo **iFood** e pela **Microsoft**.
-
-O projeto foi realizado em 2024 e representa os conhecimentos adquiridos, incorporando as melhores práticas e técnicas.
+O projeto visou cumprir os requisitos de **Programação Orientada a Objetos** e **Banco de Dados** do bootcamp de Back-end Python e Django da **WoMakersCode**, patrocinado pelo **iFood** e pela **Microsoft**. O projeto foi realizado em fevereiro de 2024.
 
 
 ## Ferramentas utilizadas
