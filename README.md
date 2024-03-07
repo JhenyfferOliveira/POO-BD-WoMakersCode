@@ -1,8 +1,8 @@
-﻿# Projeto Final do Curso de Programação Orientada a Objeto e Banco de Dados
+﻿# Projeto Final do Curso de Programação Orientada a Objetos e Banco de Dados
  
 Código desenvolvido para desenvolvimento de um sistema de gerenciamento de biblioteca. Para modelar o sistema, os conceitos de classe, herança, propriedade, encapsulamento e classe abstrata foram utilizados. Já a parte de Banco de Dados as queries envolveram criação de tabelas, inserção de dados, algumas consultas, atualizações e exclusões no banco de dados.
 
-O projeto visou cumprir os requisitos de **Programação Orientada a Objeto** e **Objeto e Banco de Dados**, do bootcamp de Back-en Python e Django da **WoMakersCode**, patrocinado pelo **iFood** e pela **Microsoft**.
+O projeto visou cumprir os requisitos de **Programação Orientada a Objetos** e **Objeto e Banco de Dados**, do bootcamp de Back-en Python e Django da **WoMakersCode**, patrocinado pelo **iFood** e pela **Microsoft**.
 
 O projeto foi realizado em 2024 e representa os conhecimentos adquiridos, incorporando as melhores práticas e técnicas.
 
