@@ -1,4 +1,4 @@
-﻿# Projeto Final dos Cursos de Programação Orientada a Objetos e Banco de Dados
+﻿# Programação Orientada a Objetos e Banco de Dados
  
 Código desenvolvido para produção de um sistema de gerenciamento de biblioteca. Para modelar o sistema, conceitos de classe, herança, propriedade, encapsulamento e classe abstrata foram utilizados. Já a parte de Banco de Dados foi desenvolvida com queries que envolveram criação de tabelas, inserção de dados e algumas consultas, atualizações e exclusões no banco de dados.
 
