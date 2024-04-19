@@ -1,8 +1,8 @@
 ﻿# Programação Orientada a Objetos e Banco de Dados
  
-Código desenvolvido para cumprir os requisitos de **Programação Orientada a Objetos** e **Banco de Dados** do bootcamp de Back-end Python e Django da **WoMakersCode**, patrocinado pelo **iFood** e pela **Microsoft**.
+Esse projeto foi produzido visando um sistema de gerenciamento de biblioteca. Durante o processo de modelagem do sistema, aplicamos conceitos de Programação Orientada a Objetos (POO), garantindo uma estrutura modular. Além disso, implementamos queries eficientes para o Banco de Dados, a fim de garantir uma interação fluida com os dados. O projeto foi elaborado em fevereiro de 2024.
 
-O projeto foi realizando visando a produção de um sistema de gerenciamento de biblioteca. Durante o processo de modelagem do sistema, aplicamos conceitos de Programação Orientada a Objetos (POO), garantindo uma estrutura modular. Além disso, implementamos queries eficientes para o Banco de Dados, a fim de garantir uma interação fluida com os dados.
+Código desenvolvido para cumprir os requisitos de **Programação Orientada a Objetos** e **Banco de Dados** para o bootcamp **Back-end Python e Django** da **WoMakersCode**, patrocinado pelo **iFood** e pela **Microsoft**.
 
 ---
 
